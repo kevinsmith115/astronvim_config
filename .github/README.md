@@ -1,4 +1,4 @@
-r configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+Configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## 🛠️ Installation
 
